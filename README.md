@@ -1,2 +1,5 @@
-# Object_detection
-The fun of watching your PC recognize objects using ML
+Ever imagined your computer playing detective, spotting objects, and distinguishing between images? That’s the thrill of object detection with Convolutional Neural Networks (CNNs)! I’ve rolled up my sleeves, written some code, and created a model that does just that. But here’s the thing—while it’s cool to handcraft everything, there’s a whole world of ready-made, super-efficient models out there just waiting to be plugged into your project.
+
+Enter YOLOv8—a model so sharp it can spot a needle in a haystack (well, almost!). Instead of sweating over every little detail, I embraced the magic of transfer learning, letting YOLOv8 do the heavy lifting. The result? A model that doesn’t just work; it works really well.
+
+So what’s the mission? This project uses our trusty YOLOv8 to detect defects on roads. Think of it as your PC taking on a part-time job as a road inspector, finding cracks, potholes, and all the other nasty stuff that messes up your ride. But here’s the best part: this isn’t a one-trick pony. The model’s versatile enough to be re-trained and used for all sorts of object detection tasks.
